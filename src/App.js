@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 // eslint-disable-next-line
-import TaxCalculator from '../TaxCalculator';
-import Weather from '../Weather';
+import TaxCalculator from './TaxCalculator';
+import Weather from './Weather';
 
 class App extends Component {
   render() {

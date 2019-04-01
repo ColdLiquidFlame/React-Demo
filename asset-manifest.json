@@ -1,5 +1,5 @@
 {
-  "main.css": "/react-demo/static/css/main.a5a32cbf.chunk.css",
+  "main.css": "/react-demo/static/css/main.b01d6332.chunk.css",
   "main.js": "/react-demo/static/js/main.72eca266.chunk.js",
   "main.js.map": "/react-demo/static/js/main.72eca266.chunk.js.map",
   "runtime~main.js": "/react-demo/static/js/runtime~main.9afa0561.js",
@@ -8,8 +8,8 @@
   "static/js/2.65a52154.chunk.js": "/react-demo/static/js/2.65a52154.chunk.js",
   "static/js/2.65a52154.chunk.js.map": "/react-demo/static/js/2.65a52154.chunk.js.map",
   "index.html": "/react-demo/index.html",
-  "precache-manifest.ec5f374f1db1121328b60f5628bde89a.js": "/react-demo/precache-manifest.ec5f374f1db1121328b60f5628bde89a.js",
+  "precache-manifest.163c4547f65282f85c00338b68d52332.js": "/react-demo/precache-manifest.163c4547f65282f85c00338b68d52332.js",
   "service-worker.js": "/react-demo/service-worker.js",
   "static/css/2.a413747c.chunk.css.map": "/react-demo/static/css/2.a413747c.chunk.css.map",
-  "static/css/main.a5a32cbf.chunk.css.map": "/react-demo/static/css/main.a5a32cbf.chunk.css.map"
+  "static/css/main.b01d6332.chunk.css.map": "/react-demo/static/css/main.b01d6332.chunk.css.map"
 }

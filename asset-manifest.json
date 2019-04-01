@@ -1,15 +1,15 @@
 {
-  "main.css": "/react-tax-calculator/static/css/main.a5a32cbf.chunk.css",
-  "main.js": "/react-tax-calculator/static/js/main.cee0f22e.chunk.js",
-  "main.js.map": "/react-tax-calculator/static/js/main.cee0f22e.chunk.js.map",
-  "runtime~main.js": "/react-tax-calculator/static/js/runtime~main.2c789dd7.js",
-  "runtime~main.js.map": "/react-tax-calculator/static/js/runtime~main.2c789dd7.js.map",
-  "static/css/2.a413747c.chunk.css": "/react-tax-calculator/static/css/2.a413747c.chunk.css",
-  "static/js/2.65a52154.chunk.js": "/react-tax-calculator/static/js/2.65a52154.chunk.js",
-  "static/js/2.65a52154.chunk.js.map": "/react-tax-calculator/static/js/2.65a52154.chunk.js.map",
-  "index.html": "/react-tax-calculator/index.html",
-  "precache-manifest.6d1bb1fa92454044b043be150d429706.js": "/react-tax-calculator/precache-manifest.6d1bb1fa92454044b043be150d429706.js",
-  "service-worker.js": "/react-tax-calculator/service-worker.js",
-  "static/css/2.a413747c.chunk.css.map": "/react-tax-calculator/static/css/2.a413747c.chunk.css.map",
-  "static/css/main.a5a32cbf.chunk.css.map": "/react-tax-calculator/static/css/main.a5a32cbf.chunk.css.map"
+  "main.css": "/react-demo/static/css/main.a5a32cbf.chunk.css",
+  "main.js": "/react-demo/static/js/main.72eca266.chunk.js",
+  "main.js.map": "/react-demo/static/js/main.72eca266.chunk.js.map",
+  "runtime~main.js": "/react-demo/static/js/runtime~main.9afa0561.js",
+  "runtime~main.js.map": "/react-demo/static/js/runtime~main.9afa0561.js.map",
+  "static/css/2.a413747c.chunk.css": "/react-demo/static/css/2.a413747c.chunk.css",
+  "static/js/2.65a52154.chunk.js": "/react-demo/static/js/2.65a52154.chunk.js",
+  "static/js/2.65a52154.chunk.js.map": "/react-demo/static/js/2.65a52154.chunk.js.map",
+  "index.html": "/react-demo/index.html",
+  "precache-manifest.ec5f374f1db1121328b60f5628bde89a.js": "/react-demo/precache-manifest.ec5f374f1db1121328b60f5628bde89a.js",
+  "service-worker.js": "/react-demo/service-worker.js",
+  "static/css/2.a413747c.chunk.css.map": "/react-demo/static/css/2.a413747c.chunk.css.map",
+  "static/css/main.a5a32cbf.chunk.css.map": "/react-demo/static/css/main.a5a32cbf.chunk.css.map"
 }
